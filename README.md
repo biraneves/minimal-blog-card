@@ -4,7 +4,9 @@
 
 This project is a front-end challenge focused on creating a minimalistic blog card. It showcases the use of HTML and CSS, emphasizing responsive design and modern web styling practices.
 
-![Challenge screenshot](./assets/images/SCR-20240131-tfnq.png)
+<p style="text-align: center;">
+    <img src="./assets/images/SCR-20240131-tfnq.png" alt="Challenge solution screenshot" />
+</p>
 
 ## Technologies
 
